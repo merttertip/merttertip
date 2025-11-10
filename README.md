@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, React**
 
-- 🤝 I am open to job offers. **I am open to job offers.**
+- 🌱 I'm going to learn soon **Node.js, Mongodb, Reacnative** 
 
-- 💬Ask me about anything **💬Ask me about anything**
+- 🤝 I am open to job offers.
+
+- 💬Ask me about anything 
 
 - 📫 How to reach me **merttertip22@gmail.com**
 
