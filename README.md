@@ -9,11 +9,11 @@
 
 - 🤝 I am open to job offers.
 
-- 💬Ask me about anything 
+- 💬Ask me about anything. 
 
 - 📫 How to reach me **merttertip22@gmail.com**
 
-- ⚡ I am passionate about developing myself in a versatile manner in the software world. **⚡ I am passionate about developing myself in a versatile manner in the software world.**
+- ⚡ I am passionate about developing myself in a versatile manner in the software world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
