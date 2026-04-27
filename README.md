@@ -26,7 +26,7 @@ I specialize in building responsive applications using React with a clean archit
 🧩 Development: Component-based, dynamic web applications <br/>
 📚 Learning: TypeScript, Next.js, and full-stack fundamentals <br/>
 🚀 Goal: To become a versatile software developer <br/>
-📫 Open to opportunities and collaborations merttertip22@gmail.com.<br/>
+📫 Open to opportunities and collaborations merttertip22@gmail.com<br/>
 
 
 ### Socials
