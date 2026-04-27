@@ -12,8 +12,8 @@
 
 
 
-💻 I'm currently a **MERN Fullstack Developer**.  
-📝 I use HTML, CSS, JS, TypeScript, React.js, Next.js, Node.js, Express and MongoDB in my projects.<br/><br/>
+💻 I'm currently a **Frontend Developer**.  
+📝 I use HTML, CSS, JS, TypeScript, React, Next.js, Express and MongoDB in my projects.<br/><br/>
 
 
 
