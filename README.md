@@ -59,14 +59,14 @@ I specialize in building responsive applications using React with a clean archit
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)<br/><br/>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Overview:**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanFirouzi&theme=tokyonight&hide_border=false&layout=compact)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=HassanFirouzi&show_icons=true&theme=tokyonight)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HassanFirouzi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=merttertip&theme=tokyonight&hide_border=false&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=merttertip&show_icons=true&theme=tokyonight)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=merttertip&theme=tokyonight&hide_border=false)<br/>
 
-![](https://github-contributor-stats.vercel.app/api?username=HassanFirouzi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=merttertip&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=merttertip)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="wave" />
