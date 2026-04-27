@@ -38,7 +38,7 @@ I specialize in building responsive applications using React with a clean archit
 
 
 ### 🧰 Toolkit
-![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)
+![]([https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36"))
 <br/><br/>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Overview:**
