@@ -18,9 +18,9 @@
 
 ### 👨🏻‍💻 About Me
 Front-End Developer
-I am a Front-End Developer passionate about creating scalable and engaging web interfaces.
+I am a Front-End Developer passionate about creating scalable and engaging web interfaces.<br/>
 
-I specialize in building responsive applications using React with a clean architecture, reusable components, and a strong focus on user experience. I enjoy learning new technologies and continuously improving my development skills.
+I specialize in building responsive applications using React with a clean architecture, reusable components, and a strong focus on user experience. I enjoy learning new technologies and continuously improving my development skills.<br/>
 
 ⚛️ Technology Stack: JavaScript, React, HTML5, CSS3
 🧩 Development: Component-based, dynamic web applications
