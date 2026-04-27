@@ -13,26 +13,20 @@
 
 
 💻 I'm currently a **Frontend Developer**.  
-📝 I use HTML, CSS, JS, TypeScript, React, Next.js, Express and MongoDB in my projects.<br/><br/>
 
 
 
 ### 👨🏻‍💻 About Me
-Hello, I am an active Full-stack Developer specializing in the libraries of React and React Native for the frontend and Node.js-MongoDB for the backend.
+Front-End Developer
+I am a Front-End Developer passionate about creating scalable and engaging web interfaces.
 
-My aim is towards having the cleanest, most optimized and easiest-to-read code.
+I specialize in building responsive applications using React with a clean architecture, reusable components, and a strong focus on user experience. I enjoy learning new technologies and continuously improving my development skills.
 
-Among my skills are being suitable for teamwork, adapting to different working conditions, learning new information significantly quicker and great capability of communication.
-
-### My experiences include: 
-Software Developer specializing in React, React Native, Node.js, and MERN stack. Experienced in building scalable backend systems and intuitive mobile/frontend applications. Passionate about full-stack development and delivering polished, privacy-conscious solutions.<br/>
-
-• I have worked with modern technologies such as React, Node.js, React Native, and Next.js in web and mobile development processes.<br/>
-• Utilization of HTML, CSS, TypeScript and JavaScript languages with React.js library<br/>
-• Utilizing a broad range of APIs in collaboration with back-end developers.<br/>
-• Developing web applications, optimized single-page applications(SPA) and UIs.<br/>
-• Experience on projects both in a group and as a solo developer.<br/>
-• Participated projects include E-commerce websites, social media websites, educational websites and more.<br/>
+⚛️ Technology Stack: JavaScript, React, HTML5, CSS3
+🧩 Development: Component-based, dynamic web applications
+📚 Learning: TypeScript, Next.js, and full-stack fundamentals
+🚀 Goal: To become a versatile software developer
+📫 Open to opportunities and collaborations merttertip22@gmail.com.<br/>
 
 
 ---
