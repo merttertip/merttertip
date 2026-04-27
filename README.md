@@ -57,7 +57,7 @@ I specialize in building responsive applications using React with a clean archit
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
-![Vscode]([https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium)) 
+![Vscode](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) <br/><br/>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Overview:**
