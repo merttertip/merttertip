@@ -22,10 +22,10 @@ I am a Front-End Developer passionate about creating scalable and engaging web i
 
 I specialize in building responsive applications using React with a clean architecture, reusable components, and a strong focus on user experience. I enjoy learning new technologies and continuously improving my development skills.<br/>
 
-⚛️ Technology Stack: JavaScript, React, HTML5, CSS3
-🧩 Development: Component-based, dynamic web applications
-📚 Learning: TypeScript, Next.js, and full-stack fundamentals
-🚀 Goal: To become a versatile software developer
+⚛️ Technology Stack: JavaScript, React, HTML5, CSS3 <br/>
+🧩 Development: Component-based, dynamic web applications <br/>
+📚 Learning: TypeScript, Next.js, and full-stack fundamentals <br/>
+🚀 Goal: To become a versatile software developer <br/>
 📫 Open to opportunities and collaborations merttertip22@gmail.com.<br/>
 
 
