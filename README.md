@@ -4,7 +4,7 @@
   
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="vertical-align: middle;">
 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=+Frontend+Developer;Javascript+%7C+React" width="435" alt="Typing SVG" style="vertical-align: middle;">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=+Frontend+Developer;Javascript+%7C+React+%7C+Node+JS" width="435" alt="Typing SVG" style="vertical-align: middle;">
 </p>
 
   
@@ -46,6 +46,7 @@ I specialize in building responsive applications using React with a clean archit
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)  
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) 
