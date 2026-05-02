@@ -4,7 +4,7 @@
   
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="vertical-align: middle;">
 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=+Frontend+Developer;Javascript+%7C+React+%7C+NodeJS" width="435" alt="Typing SVG" style="vertical-align: middle;">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=+Frontend+Developer;Javascript+%7C+React" width="435" alt="Typing SVG" style="vertical-align: middle;">
 </p>
 
   
@@ -57,6 +57,7 @@ I specialize in building responsive applications using React with a clean archit
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 ![Vscode](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) <br/><br/>
 
