@@ -4,7 +4,7 @@
   
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="vertical-align: middle;">
 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=475&lines=+Frontend+Developer;Javascript+%7C+React+%7C+Typscript+%7C+Next.js" width="475" alt="Typing SVG" style="vertical-align: middle;">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=480&lines=+Frontend+Developer;Javascript+%7C+React+%7C+Typscript+%7C+Next.js" width="480" alt="Typing SVG" style="vertical-align: middle;">
 </p>
 
   
