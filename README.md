@@ -4,7 +4,7 @@
   
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="vertical-align: middle;">
 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=480&lines=+Full-Stack+Developer;Javascript+%7C+React+%7C+Typscript+%7C+Next.js" width="480" alt="Typing SVG" style="vertical-align: middle;">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=480&lines=+MERN+Full-Stack+Developer;Javascript+%7C+React+%7C+Typscript+%7C+Next.js" width="480" alt="Typing SVG" style="vertical-align: middle;">
 </p>
 
   
@@ -12,20 +12,27 @@
 
 
 
-💻 I'm currently a **Frontend Developer**.  
+💻 I'm currently a MERN Fullstack Developer.
+📝 I use HTML, CSS, JS, TypeScript, React.js, Next.js, Node.js, Express and MongoDB in my projects.
 
 
 
 ### 👨🏻‍💻 About Me
-Front-End Developer
-I am a Front-End Developer passionate about creating scalable and engaging web interfaces.<br/>
+Hello, I am an active Full-stack Developer specializing in the libraries of React and React Native for the frontend and Node.js-MongoDB for the backend.
 
-I specialize in building responsive applications using React with a clean architecture, reusable components, and a strong focus on user experience. I enjoy learning new technologies and continuously improving my development skills.<br/>
+My aim is towards having the cleanest, most optimized and easiest-to-read code.
 
-⚛️ Technology Stack: JavaScript, React, HTML5, CSS3, SASS, TypeScript, Next.js <br/>
-🧩 Development: Component-based, dynamic web applications <br/>
-🚀 Goal: To become a versatile software developer <br/>
-📫 Open to opportunities and collaborations merttertip22@gmail.com<br/>
+Among my skills are being suitable for teamwork, adapting to different working conditions, learning new information significantly quicker and great capability of communication.
+
+My experiences include:
+Software Developer specializing in React, React Native, Node.js, and MERN stack. Experienced in building scalable backend systems and intuitive mobile/frontend applications. Passionate about full-stack development and delivering polished, privacy-conscious solutions.
+
+• I have worked with modern technologies such as React, Node.js, React Native, and Next.js in web and mobile development processes.
+• Utilization of HTML, CSS, TypeScript and JavaScript languages with React.js library
+• Utilizing a broad range of APIs in collaboration with back-end developers.
+• Developing web applications, optimized single-page applications(SPA) and UIs.
+• Experience on projects both in a group and as a solo developer.
+• Participated projects include E-commerce websites, social media websites, educational websites and more.
 
 
 ### Socials
