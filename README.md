@@ -11,9 +11,8 @@
   
 
 
-
-💻 I'm currently a MERN Fullstack Developer.
-📝 I use HTML, CSS, JS, TypeScript, React.js, Next.js, Node.js, Express and MongoDB in my projects.
+💻 I'm currently a **MERN Fullstack Developer**.  
+📝 I use HTML, CSS, JS, TypeScript, React.js, Next.js, Node.js, Express and MongoDB in my projects.<br/><br/>
 
 
 
@@ -24,15 +23,15 @@ My aim is towards having the cleanest, most optimized and easiest-to-read code.
 
 Among my skills are being suitable for teamwork, adapting to different working conditions, learning new information significantly quicker and great capability of communication.
 
-My experiences include:
-Software Developer specializing in React, React Native, Node.js, and MERN stack. Experienced in building scalable backend systems and intuitive mobile/frontend applications. Passionate about full-stack development and delivering polished, privacy-conscious solutions.
+### My experiences include: 
+Software Developer specializing in React, React Native, Node.js, and MERN stack. Experienced in building scalable backend systems and intuitive mobile/frontend applications. Passionate about full-stack development and delivering polished, privacy-conscious solutions.<br/>
 
-• I have worked with modern technologies such as React, Node.js, React Native, and Next.js in web and mobile development processes.
-• Utilization of HTML, CSS, TypeScript and JavaScript languages with React.js library
-• Utilizing a broad range of APIs in collaboration with back-end developers.
-• Developing web applications, optimized single-page applications(SPA) and UIs.
-• Experience on projects both in a group and as a solo developer.
-• Participated projects include E-commerce websites, social media websites, educational websites and more.
+• I have worked with modern technologies such as React, Node.js, React Native, and Next.js in web and mobile development processes.<br/>
+• Utilization of HTML, CSS, TypeScript and JavaScript languages with React.js library<br/>
+• Utilizing a broad range of APIs in collaboration with back-end developers.<br/>
+• Developing web applications, optimized single-page applications(SPA) and UIs.<br/>
+• Experience on projects both in a group and as a solo developer.<br/>
+• Participated projects include E-commerce websites, social media websites, educational websites and more.<br/>
 
 
 ### Socials
